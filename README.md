@@ -3,11 +3,11 @@
 ### Python project that solves logical game using neural network and Monte Carlo tree search (MCTS) algorithm
 
 Requirements:\
-  python 3.6.x - 3.7.x
+* python 3.6.x - 3.7.x
   
-  pip install numpy\
-  pip install sklearn\
-  pip install pygame
+* pip install numpy\
+* pip install sklearn\
+* pip install pygame
 
 Main parameters:\
   GAMES - number of games to play for training or demonstration\
