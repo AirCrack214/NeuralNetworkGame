@@ -1,6 +1,6 @@
 # NeuralNetworkGame
 
-### Python project that solves logical game using neural network and Monte Carlo tree search (MCTS) algorithm
+### Python project that solves logical game using neural network and Monte Carlo tree search (MCTS)
 
 Requirements:
 * python 3.6.x - 3.7.x
